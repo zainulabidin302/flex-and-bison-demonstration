@@ -1,6 +1,6 @@
 %{
 #include <stdio.h>
-#include "y.tab.h"
+#include "exp.tab.h"
 %}
 
 digit [0-9]
